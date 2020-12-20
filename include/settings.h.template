@@ -1,0 +1,9 @@
+const char* ssid = "Wlan SSID";
+const char* password = "Dein Sicheres WLAN Passwort";
+const char* server = "xxx.xxx.xxx.xxx";
+static uint8_t const internalLED = 16;
+const String clientId = "mqtt client name";
+const String mqttUser = "falls benoetigt, dann code anpassen";
+const String mqttPassword = "";
+const String lights433topic = "topic/definition";
+const String topicBase = "base/room/";
